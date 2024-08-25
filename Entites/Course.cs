@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EFASS02.Entites
 {
-    internal class Course
+    public class Course
     {
         public int Id { get; set; }
         public double Duration { get; set; }
